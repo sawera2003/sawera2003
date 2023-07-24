@@ -50,15 +50,6 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
   </a>
-  <!-- Add more icons here as needed -->
-</p>
-
-
-<h3 align="left">Support:</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sawera2003">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210">
-  </a>
 </p>
 
 <p align="center">
