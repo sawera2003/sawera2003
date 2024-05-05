@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **sawerarehman2003@gmail.com**
 
-- ⚡ Fun fact: **Never lose hope 😊**
+- ⚡ Fun fact about me: **I pick up new skills quickly and never give up, no matter how challenging things get😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
